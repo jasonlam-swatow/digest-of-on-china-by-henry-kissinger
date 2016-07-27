@@ -12,11 +12,18 @@
         "highlight"
     ],
     "pluginsConfig": {
-        "expandable-chapters":{}
+        "expandable-chapters": {}
     },
     "links": {
         "sidebar": {
             "Jason Lam's Blog": "http://www.jasonlamswatow.com"
+        },
+        "sharing": {
+            "google": true,
+            "facebook": true,
+            "twitter": true,
+            "weibo": true,
+            "all": true
         }
     }
 }
