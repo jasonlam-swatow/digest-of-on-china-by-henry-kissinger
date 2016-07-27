@@ -1,3 +1,7 @@
-# My Awesome Book
+# 基辛格《論中國》之梗概
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+這個 GitBook 是對亨利・基辛格所著《論中國》之梗概，遵循章節順序，提取作者意圖。
+
+我力求行文簡潔精煉的同時，充分尊重原作者，原汁原味地體驗原書主旨和立場，絕不添加來自自己或第三方資料的思想。
+
+此梗概主要基於中國大陸譯本（中信出版社 2015 年 7 月 第 2 版），但在刪改之處會訴諸英文原版以補充內容。
