@@ -1,18 +1,28 @@
 {
+    "author": "Jason Lam <jasonlam0619@yahoo.com>",
+    "description": "A digest of On China by Henry Kissinger",
+    "title": "基辛格《論中國》之梗概",
     "plugins": [
         "expandable-chapters",
-        "-sharing",
-        "-search",
-        "search-pro",
-        "-highlight",
-        "prism",
-        "-fontsettings"
+        "collapsible-menu",
+        "toggle-chapters",
+        "sharing",
+        "search",
+        "highlight"
     ],
     "pluginsConfig": {
-        "fontSettings": {
-            "theme": null,
-            "family": "sans",
-            "size": 2
+        "expandable-chapters": {}
+    },
+    "links": {
+        "sidebar": {
+            "Jason Lam's Blog": "http://www.jasonlamswatow.com"
+        },
+        "sharing": {
+            "google": true,
+            "facebook": true,
+            "twitter": true,
+            "weibo": true,
+            "all": true
         }
     }
 }
