@@ -8,16 +8,10 @@
         "toggle-chapters",
         "-sharing",
         "-search",
-        "-highlight",
-        "prism",
-        "-fontsettings"
+        "search-pro",
+        "-highlight"
     ],
     "pluginsConfig": {
-        "fontSettings": {
-            "theme": null,
-            "family": "sans",
-            "size": 4
-        },
         "expandable-chapters":{}
     },
     "links": {
