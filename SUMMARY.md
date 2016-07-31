@@ -24,7 +24,7 @@
   * [對臺軍售和第三個《聯合公報》](chapter14/section1.md)
   * [新均勢：中國和兩個超級大國](chapter14/section2.md)
   * [鄧小平的改革方案](chapter14/section3.md)
-* [天安門](chapter15.md)
+* [天安門](chapter15/README.md)
 * [什麼樣的改革？鄧小平南方視察](chapter16.md)
 * [又一次和解：江澤民時期](chapter17.md)
 * [新千年](chapter18.md)
