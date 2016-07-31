@@ -11,7 +11,12 @@
         "highlight"
     ],
     "pluginsConfig": {
-        "expandable-chapters": {}
+        "expandable-chapters": {},
+        "fontsettings": {
+            "theme": "night",
+            "family": "serif",
+            "size": 2
+        }
     },
     "links": {
         "sidebar": {
