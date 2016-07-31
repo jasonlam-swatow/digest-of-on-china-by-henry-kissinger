@@ -20,7 +20,7 @@
   * [中共四面楚歌](chapter13/section2.md)
   * [中美正常化與鄧小平的外交舉措](chapter13/section3.md)
   * [對越作戰](chapter13/section4.md)
-* [里根和正常化的開始](chapter14/chapter14.md)
+* [里根和正常化的開始](chapter14/README.md)
   * [對臺軍售和第三個《聯合公報》](chapter14/section1.md)
   * [新均勢：中國和兩個超級大國](chapter14/section2.md)
   * [鄧小平的改革方案](chapter14/section3.md)
