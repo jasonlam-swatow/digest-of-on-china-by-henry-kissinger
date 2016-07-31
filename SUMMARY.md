@@ -27,7 +27,7 @@
 * [天安門](chapter15/README.md)
   * [美國的窘境](chapter15/section1.md)
   * [方勵之糾紛](chapter15/section2.md)
-  * [12 字和 24 字指示](chapter15/section3.md)
+  * [12 字與 24 字指示](chapter15/section3.md)
 * [什麼樣的改革？鄧小平南方視察](chapter16.md)
 * [又一次和解：江澤民時期](chapter17.md)
 * [新千年](chapter18.md)
